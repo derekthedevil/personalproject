@@ -9,3 +9,4 @@ pip install -r requirements.txt
 ```
 python python.py
 ```
+# career is importtant but so is this ♥
